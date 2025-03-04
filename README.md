@@ -1,0 +1,2 @@
+# master_thesis_bankruptcy_prediction_model
+Predicting Financial Bankruptcy Using Machine Learning
